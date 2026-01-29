@@ -1,0 +1,128 @@
+[
+  {
+    "country": "Deutschland",
+    "city": "Berlin",
+    "time": "17:30",
+    "location": "Zoologischer Garten (Demo)"
+  },
+  {
+    "country": "Deutschland",
+    "city": "Bielefeld",
+    "time": "10:00–17:00",
+    "location": "Universitätshalle, Uni Bielefeld (Spenden- & Infostand)"
+  },
+  {
+    "country": "Deutschland",
+    "city": "Bielefeld",
+    "time": "17:00",
+    "location": "Hauptbahnhof (Demo nur für Frauen)"
+  },
+  {
+    "country": "Deutschland",
+    "city": "Bielefeld",
+    "time": "18:00",
+    "location": "Rathaus (Demo für alle)"
+  },
+  {
+    "country": "Deutschland",
+    "city": "Bonn",
+    "time": "17:00",
+    "location": "Münsterplatz (Demo)"
+  },
+  {
+    "country": "Deutschland",
+    "city": "Bremen",
+    "time": "17:00",
+    "location": "Bremerische Bürgerschaft"
+  },
+  {
+    "country": "Deutschland",
+    "city": "Düsseldorf",
+    "time": "17:00",
+    "location": "Schadowplatz (Demo)"
+  },
+  {
+    "country": "Deutschland",
+    "city": "Frankfurt am Main",
+    "time": "18:00",
+    "location": "Hauptbahnhof (Demo)"
+  },
+  {
+    "country": "Deutschland",
+    "city": "Hagen",
+    "time": "17:00",
+    "location": "Hauptbahnhof (Demo)"
+  },
+  {
+    "country": "Deutschland",
+    "city": "Halle (Saale)",
+    "time": "16:00",
+    "location": "Marktplatz (Demo)"
+  },
+  {
+    "country": "Deutschland",
+    "city": "Hannover",
+    "time": "17:00",
+    "location": "Hauptbahnhof (Demo)"
+  },
+  {
+    "country": "Deutschland",
+    "city": "Heilbronn",
+    "time": "17:30",
+    "location": "Kiliansplatz (Kundgebung)"
+  },
+  {
+    "country": "Deutschland",
+    "city": "Köln",
+    "time": "18:00",
+    "location": "Hauptbahnhof (Demo)"
+  },
+  {
+    "country": "Deutschland",
+    "city": "Limburg",
+    "time": "18:00",
+    "location": "Neumarkt (Kundgebung)"
+  },
+  {
+    "country": "Deutschland",
+    "city": "Mülheim an der Ruhr",
+    "time": "17:00",
+    "location": "Vor dem Forum (Demo)"
+  },
+  {
+    "country": "Deutschland",
+    "city": "Münster",
+    "time": "18:00",
+    "location": "Hauptbahnhof (Demo)"
+  },
+  {
+    "country": "Deutschland",
+    "city": "Stuttgart",
+    "time": "15:00",
+    "location": "Kobanêplatz (Schlossplatz) (Mahnwache & Kundgebung)"
+  },
+  {
+    "country": "Deutschland",
+    "city": "Vechta",
+    "time": "16:00",
+    "location": "Europaplatz (Demo)"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "Enfield (London)",
+    "time": "18:00",
+    "location": "Albany Park, Ponders End"
+  },
+  {
+    "country": "Österreich",
+    "city": "Wien",
+    "time": "18:00",
+    "location": "Heldenplatz ➔ Türkisches Konsulat"
+  },
+  {
+    "country": "Österreich",
+    "city": "Graz",
+    "time": "17:00",
+    "location": "Hauptplatz"
+  }
+]
